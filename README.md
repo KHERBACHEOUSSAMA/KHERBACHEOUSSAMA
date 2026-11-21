@@ -4,7 +4,7 @@ Software engineer building web apps and SaaS tools.
 
 - 🔭 Working on: ERP / SaaS platforms
 - 🧠 Interested in: NLP, search & recommendation systems
-- 🌍 Languages: Arabic (native) · English · French · German (professional working proficiency)
+- 🌍 Languages: Arabic (native) · English & French (professional) · German (B1)
 
 ## 🛠️ Tech stack
 Python · Flask · spaCy · JavaScript · HTML/CSS · SQL · Git
