@@ -1,0 +1,16 @@
+# Hi, I'm Oussama 👋
+
+Software engineer building web apps and SaaS tools.
+
+- 🔭 Working on: ERP / SaaS platforms
+- 🧠 Interested in: NLP, search & recommendation systems
+
+## 🛠️ Tech stack
+Python · Flask · spaCy · JavaScript · HTML/CSS · SQL · Git
+
+## ⭐ Featured projects
+**[Job Recommendation System](https://github.com/KHERBACHEOUSSAMA/Job-Recommendation-System)**  
+Job search portal that ranks results with TF-IDF and an inverted index, with fuzzy search and country filters.
+
+**[Portfolio website](https://github.com/KHERBACHEOUSSAMA/OK.github.io)**  
+My personal portfolio, hosted on GitHub Pages.
